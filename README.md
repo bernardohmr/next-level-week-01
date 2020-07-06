@@ -31,3 +31,10 @@ Soluções para backend, web e mobile:
 - Multer
 
 - Etc
+
+<br />
+<p align="center">
+  <img src=".github/0 (1).jpeg" alt="Logo">
+  <img src=".github/0.jpeg" alt="Logo">
+  <img src=".github/0 (2).jpeg" alt="Logo">
+</p>
